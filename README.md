@@ -17,6 +17,6 @@ Exceptions : Store,Photos,Calculator,StickyNotes,ScreenSketch,IntelGraphicsExper
  You could be stop the process by press "CTRL+C".
 
 ## Authors
- Samiq Hakimov [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="70"/>](https://t.me/samiq997)
+ _Samiq Hakimov [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="70"/>](https://t.me/samiq997)
  
- Rahman Samadzade [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="70"/>](https://t.me/capwan)
+ _Rahman Samadzade [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="70"/>](https://t.me/capwan)
