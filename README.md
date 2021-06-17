@@ -13,8 +13,9 @@ Exceptions : Store,Photos,Calculator,StickyNotes,ScreenSketch,IntelGraphicsExper
  You could be stop the process by press "CTRL+C".
 
 ## Authors
- Samiq Hakimov [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="90"/>](https://t.me/samiq997)
- Rahman Samadzade [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="90"/>](https://t.me/capwan)
+ Samiq Hakimov [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="50"/>](https://t.me/samiq997)
+ 
+ Rahman Samadzade [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="50"/>](https://t.me/capwan)
 
 [![made-with-powershell](https://img.shields.io/badge/Made%20with-Powershell-1f425f.svg)](https://docs.microsoft.com/en-us/powershell/)
 [![made-with-batchfile](https://img.shields.io/badge/Made%20with-Batch-1f425f.svg)](https://en.wikipedia.org/wiki/Batch_file)
