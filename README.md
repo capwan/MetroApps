@@ -18,5 +18,6 @@ Exceptions : Store,Photos,Calculator,StickyNotes,ScreenSketch,IntelGraphicsExper
 
 ## Authors
 [_Samiq Hakimov_](https://t.me/samiq997)
+
 [_Rahman Samadzade_](https://t.me/capwan)
 
