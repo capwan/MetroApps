@@ -2,7 +2,7 @@
 This script deletes all unnecessary files.
 Exceptions : Store,Photos,Calculator,StickyNotes,ScreenSketch,IntelGraphicsExperience.
 
-## Instruction
+# Instruction
 1.Create folder "MetroApps".
 2.Create folder "scripts" in "MetroApps" folder.
 3.Move "metroapps.ps1" to "scripts" folder.
@@ -11,7 +11,7 @@ Exceptions : Store,Photos,Calculator,StickyNotes,ScreenSketch,IntelGraphicsExper
 
 You could be stop the process by press "CTRL+C".
 
-## Authors
+# Authors
 Samiq Hakimov
 Rahman Samadzade
 
