@@ -1,4 +1,4 @@
-# About
+# MetroApps
 This script deletes all unnecessary files.
 Exceptions : Store,Photos,Calculator,StickyNotes,ScreenSketch,IntelGraphicsExperience.
 
