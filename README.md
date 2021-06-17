@@ -10,7 +10,7 @@ Exceptions : Store,Photos,Calculator,StickyNotes,ScreenSketch,IntelGraphicsExper
 4. Move "MetroApps.bat" to "MetroApps.bat" folder.
 5. Run "MetroApps.bat" by Administrator.
 
-You could be stop the process by press "CTRL+C".
+ You could be stop the process by press "CTRL+C".
 
 ## Authors
 Samiq Hakimov
