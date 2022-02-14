@@ -17,7 +17,7 @@ Exceptions : Store,Photos,Calculator,StickyNotes,ScreenSketch,IntelGraphicsExper
  **You could be stop the process by press "CTRL+C".**
 
 ## Authors
-[_Samiq Hakimov_](https://t.me/samiq997)
-
 [_Rahman Samadzade_](https://t.me/capwan)
+
+[_Samiq Hakimov_](https://t.me/samiq997)
 
